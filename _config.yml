@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Minyoung Lee"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Seoul"
+  employer         : "Bank of Korea"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "minyoung347@gmail.com" 
 
   # Academic websites
   academia         : # URL
