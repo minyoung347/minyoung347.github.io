@@ -15,6 +15,11 @@ var addressPoints = [
     127.6961188
   ],
   [
+    "Global Supply Chain Risk Analysis: Application of Network Methods to LLM-Identified Structures<br />2026 Korea's Allied Economic Associations Annual Meeting; Korea",
+    36.638392,
+    127.6961188
+  ],
+  [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
     51.5074456,
     -0.1277653
