@@ -24,11 +24,11 @@ repository               : "https://minyoung347.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Lee Minyoung"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Seoul, Korea"
+  employer         : "Bank of Korea"
   uri              : # URL
   email            : "minyoung347@gmail.com" 
 
