@@ -19,11 +19,10 @@ Work Experience
 ======
 * **2026.02 - Present: Associate Research Fellow**
   * Bank of Korea, Economic Research Institute
-  * Micro Institution Research Team
+  * Micro & Institutional Economic Studies Team
 
 * **2022.10 - 2026.01: Manager**
   * Bank of Korea, Digital Innovation Office
-  * Digital New Technology Team
 
 * **2020.08 - 2022.09: Associate Research Fellow**
   * Korea Exchange, Securities and Derivatives Research Center

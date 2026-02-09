@@ -16,9 +16,11 @@
 
   a {
     text-decoration: none;
+    color: var(--global-text-color);
 
     &:hover {
       text-decoration: none;
+      color: var(--global-text-color);
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
