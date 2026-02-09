@@ -5,17 +5,17 @@ var addressPoints = [
     -118.242766
   ],
   [
-    "Multifractal of the order submission<br />2017 Korean Physical Society Spring Meeting; Korea",
+    "Multifractal of the order submission<br />2017 Korean Physical Society Spring Meeting; Republic of Korea",
     36.638392,
     127.6961188
   ],
   [
-    "\ub09c\uc81c\uc9c0\ud615\ub3c4\ubd84\uc11d\uc744 \ud1b5\ud55c \uc774\uc288 \ubcc4 \uc9c4\ud654\ud328\ud134\uc5f0\uad6c<br />2019 \ud55c\uad6d\uae30\uc220\ud601\uc2e0\ud559\ud68c \ucd94\uacc4\ud559\uc220\ub300\ud68c; Korea",
+    "\ub09c\uc81c\uc9c0\ud615\ub3c4\ubd84\uc11d\uc744 \ud1b5\ud55c \uc774\uc288 \ubcc4 \uc9c4\ud654\ud328\ud134\uc5f0\uad6c<br />2019 \ud55c\uad6d\uae30\uc220\ud601\uc2e0\ud559\ud68c \ucd94\uacc4\ud559\uc220\ub300\ud68c; Republic of Korea",
     36.638392,
     127.6961188
   ],
   [
-    "Global Supply Chain Risk Analysis: Application of Network Methods to LLM-Identified Structures<br />2026 Korea's Allied Economic Associations Annual Meeting; Korea",
+    "Global Supply Chain Risk Analysis: Application of Network Methods to LLM-Identified Structures<br />2026 Korea's Allied Economic Associations Annual Meeting; Republic of Korea",
     36.638392,
     127.6961188
   ],
@@ -25,27 +25,27 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Market resiliency to impact in market microstructure<br />The 19th Workshop for Statistical Physics; Korea",
+    "Market resiliency to impact in market microstructure<br />The 19th Workshop for Statistical Physics; Republic of Korea",
     36.638392,
     127.6961188
   ],
   [
-    "\uae08\ub9ac \uc778\uc0c1\uae30\uc5d0 \uad6d\ucc44\uc120\ubb3c \uac70\ub798\uac00 \uad6d\uace0\ucc44 \uae08\ub9ac\uc5d0 \ubbf8\uce58\ub294 \uc601\ud5a5 \uc2e4\uc99d\ubd84\uc11d<br />2022 \ud55c\uad6d\uae08\uc735\ud559\ud68c \uc815\uae30\ud559\uc220\ub300\ud68c; Korea",
+    "\uae08\ub9ac \uc778\uc0c1\uae30\uc5d0 \uad6d\ucc44\uc120\ubb3c \uac70\ub798\uac00 \uad6d\uace0\ucc44 \uae08\ub9ac\uc5d0 \ubbf8\uce58\ub294 \uc601\ud5a5 \uc2e4\uc99d\ubd84\uc11d<br />2022 \ud55c\uad6d\uae08\uc735\ud559\ud68c \uc815\uae30\ud559\uc220\ub300\ud68c; Republic of Korea",
     36.638392,
     127.6961188
   ],
   [
-    "Great Challenges of Our Society as Viewed Policy Experts<br />World Knowledge Forum 2022; Seoul, Korea",
+    "Great Challenges of Our Society as Viewed Policy Experts<br />World Knowledge Forum 2022; Seoul, Republic of Korea",
     37.5666791,
     126.9782914
   ],
   [
-    "Understanding the market impact on the London Stock Exchange<br />APCTP 2016 Workshop on Frontiers of Physics: Push the Envelope of Statistical Physics; Korea",
+    "Understanding the market impact on the London Stock Exchange<br />APCTP 2016 Workshop on Frontiers of Physics: Push the Envelope of Statistical Physics; Republic of Korea",
     36.638392,
     127.6961188
   ],
   [
-    "Monitoring market resilience using order book data<br />2017 \ud55c\uad6d\ubcf5\uc7a1\uacc4\ud559\ud68c \uac00\uc744 \ucee8\ud37c\ub7f0\uc2a4; Korea",
+    "Monitoring market resilience using order book data<br />2017 \ud55c\uad6d\ubcf5\uc7a1\uacc4\ud559\ud68c \uac00\uc744 \ucee8\ud37c\ub7f0\uc2a4; Republic of Korea",
     36.638392,
     127.6961188
   ],
@@ -55,12 +55,12 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "The price impact of the order book on the London Stock Exchange<br />2016 \ud55c\uad6d\ubcf5\uc7a1\uacc4\ud559\ud68c \uac00\uc744 \ucee8\ud37c\ub7f0\uc2a4; Korea",
+    "The price impact of the order book on the London Stock Exchange<br />2016 \ud55c\uad6d\ubcf5\uc7a1\uacc4\ud559\ud68c \uac00\uc744 \ucee8\ud37c\ub7f0\uc2a4; Republic of Korea",
     36.638392,
     127.6961188
   ],
   [
-    "Market impact and inter-trading interval of order book event<br />2018 Korean Physical Society Fall Meeting; Korea",
+    "Market impact and inter-trading interval of order book event<br />2018 Korean Physical Society Fall Meeting; Republic of Korea",
     36.638392,
     127.6961188
   ],
@@ -70,7 +70,7 @@ var addressPoints = [
     -87.6244212
   ],
   [
-    "Evolution of limit order book and the price discovery in London stock exchange<br />2016 Korean Physical Society Fall Meeting; Korea",
+    "Evolution of limit order book and the price discovery in London stock exchange<br />2016 Korean Physical Society Fall Meeting; Republic of Korea",
     36.638392,
     127.6961188
   ],
