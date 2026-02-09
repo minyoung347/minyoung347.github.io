@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Lee Minyoung's Page"
+title                    : "Minyoung's Page"
 title_separator          : "-"
 name                     : &name "Lee Minyoung"
 description              : &description "Data Scientist, Economic Research Institute, Bank of Korea"   # Update this with a general description of your site, this is the default if not overridden by a page
