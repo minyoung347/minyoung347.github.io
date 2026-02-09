@@ -45,9 +45,10 @@
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
   font-size: $type-size-5;
+  font-weight: 600;
 
   a {
-    color: var(--global-text-color);
+    color: #333;
   }
 
   a + a {
