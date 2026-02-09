@@ -7,12 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a quantitative researcher working at the intersection of complex systems, economics, and finance. With a Ph.D. in statistical physics from POSTECH, I bring a unique perspective to understanding financial markets and economic systems through the lens of complex systems theory.
+I am a quantitative researcher specializing in complex systems and network analysis applied to finance and economics. With a Ph.D. in statistical physics from POSTECH, I bring methodological expertise in analyzing the structure and dynamics of interconnected systems.
 
-During my doctoral studies, I applied statistical physics methods to analyze financial markets, focusing on market microstructure and order book dynamics. My research examined trading behaviors during market crises and the characteristics of market participants. I also explored text data analysis using network-based approaches to study social and policy-related topics.
-
-At Korea Exchange, I conducted research on derivatives markets, developed stress testing methodologies for OTC derivatives, and applied big data analytics to market surveillance systems. This experience provided me with deep insights into market microstructure and risk management.
-
-Currently at the Bank of Korea, I analyze systemic risks and monitor financial markets. My work includes studying corporate loan networks, global supply chain risks, real estate project financing, and high-frequency market data analysis.
+My work spans market microstructure, systemic risk analysis, and economic networks. I have applied these methods at Korea Exchange (derivatives markets, stress testing, market surveillance) and currently at the Bank of Korea (corporate loan networks, supply chain risks, financial market monitoring).
 
 My research interests include complex systems, computational finance, machine learning in finance, and data-driven economic research.
