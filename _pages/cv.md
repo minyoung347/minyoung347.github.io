@@ -15,6 +15,15 @@ Education
   * Advisor: Prof. Woo-Sung Jung
 * **B.S. in Physics**, Kyung Hee University, Seoul, Republic of Korea, Feb. 2014
 
+Scholarships and Awards
+======
+* Best Presentation Award, Korean Society for Complexity Science, 2016
+* Outstanding Teaching Assistant Award, Department of Physics, POSTECH, 2014
+* President's Award, Kyung Hee University, 2014
+* Secondary School Teacher Certificate (Physics), 2014
+* Kwanjeong Educational Foundation Scholarship, 2012-2013
+* Academic Excellence Scholarship, Department of Physics, Kyung Hee University, 2010-2011
+
 Work Experience
 ======
 * **2026.02 - Present: Associate Research Fellow**
