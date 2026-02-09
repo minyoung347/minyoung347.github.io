@@ -5,5 +5,5 @@ type: "Conference presentation"
 permalink: /talks/2022-09-22-world-knowledge-forum
 venue: "World Knowledge Forum 2022"
 date: 2022-09-22
-location: "Seoul, Korea"
+location: "Seoul, Republic of Korea"
 ---

@@ -5,5 +5,5 @@ type: "Conference presentation"
 permalink: /talks/2022-06-10-kfa-conference
 venue: "2022 한국금융학회 정기학술대회"
 date: 2022-06-10
-location: "Korea"
+location: "Republic of Korea"
 ---

@@ -5,5 +5,5 @@ type: "Workshop"
 permalink: /talks/2017-08-28-statistical-physics
 venue: "The 19th Workshop for Statistical Physics"
 date: 2017-08-28
-location: "Korea"
+location: "Republic of Korea"
 ---

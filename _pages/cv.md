@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Physics**, POSTECH (Pohang University of Science and Technology), Pohang, Korea, Aug. 2020
+* **Ph.D. in Physics**, POSTECH (Pohang University of Science and Technology), Pohang, Republic of Korea, Aug. 2020
   * Advisor: Prof. Woo-Sung Jung
-* **B.S. in Physics**, Kyung Hee University, Seoul, Korea, Feb. 2014
+* **B.S. in Physics**, Kyung Hee University, Seoul, Republic of Korea, Feb. 2014
 
 Work Experience
 ======

@@ -5,5 +5,5 @@ type: "Conference presentation"
 permalink: /talks/2017-04-20-kps-spring
 venue: "2017 Korean Physical Society Spring Meeting"
 date: 2017-04-20
-location: "Korea"
+location: "Republic of Korea"
 ---
