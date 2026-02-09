@@ -48,7 +48,7 @@
   font-weight: 600;
 
   a {
-    color: #333;
+    color: var(--global-text-color);
   }
 
   a + a {
