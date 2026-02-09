@@ -26,6 +26,7 @@ Work Experience
 
 * **2020.08 - 2022.09: Associate Research Fellow**
   * Korea Exchange, Securities and Derivatives Research Center
+  * Quantitative research on derivatives markets, risk management, and market surveillance
 
 Publications
 ======
