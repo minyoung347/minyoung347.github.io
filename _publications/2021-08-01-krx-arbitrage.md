@@ -5,4 +5,5 @@ category: media
 permalink: /publication/2021-krx-arbitrage
 date: 2021-08-01
 venue: '국제신문 (Kookje Newspaper)'
+authors: 'M.-Y. Lee'
 ---
