@@ -27,16 +27,16 @@ Work Experience
 ======
 <ul>
 <li style="margin-bottom: 1em;">
-  <h3 class="archive__item-title" style="margin-bottom: 0.25em;">2026.02 - Present, Bank of Korea, Economic Research Institute</h3>
-  <p class="archive__item-excerpt" style="margin: 0;">Associate Research Fellow, Micro & Institutional Economic Studies Team</p>
+  <h3 class="archive__item-title" style="margin-bottom: 0.25em;">2026.02 - Present</h3>
+  <p class="archive__item-excerpt" style="margin: 0;">Bank of Korea, Economic Research Institute<br>Associate Research Fellow, Micro & Institutional Economic Studies Team</p>
 </li>
 <li style="margin-bottom: 1em;">
-  <h3 class="archive__item-title" style="margin-bottom: 0.25em;">2022.10 - 2026.01, Bank of Korea, Digital Innovation Office</h3>
-  <p class="archive__item-excerpt" style="margin: 0;">Manager, Data Science Team<br>Data-driven research in economics and finance</p>
+  <h3 class="archive__item-title" style="margin-bottom: 0.25em;">2022.10 - 2026.01</h3>
+  <p class="archive__item-excerpt" style="margin: 0;">Bank of Korea, Digital Innovation Office<br>Manager, Data Science Team<br>Data-driven research in economics and finance</p>
 </li>
 <li style="margin-bottom: 1em;">
-  <h3 class="archive__item-title" style="margin-bottom: 0.25em;">2020.08 - 2022.09, Korea Exchange, Securities and Derivatives Research Center</h3>
-  <p class="archive__item-excerpt" style="margin: 0;">Associate Research Fellow<br>Quantitative research on derivatives markets, risk management, and market surveillance</p>
+  <h3 class="archive__item-title" style="margin-bottom: 0.25em;">2020.08 - 2022.09</h3>
+  <p class="archive__item-excerpt" style="margin: 0;">Korea Exchange, Securities and Derivatives Research Center<br>Associate Research Fellow<br>Quantitative research on derivatives markets, risk management, and market surveillance</p>
 </li>
 </ul>
 
