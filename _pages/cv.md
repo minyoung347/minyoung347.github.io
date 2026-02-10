@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Physics**, POSTECH (Pohang University of Science and Technology), Pohang, Republic of Korea, Aug. 2020
+* **Ph.D. in Physics**, POSTECH, 2020
   * Advisor: Prof. Woo-Sung Jung
-* **B.S. in Physics**, Kyung Hee University, Seoul, Republic of Korea, Feb. 2014
+
+* **B.S. in Physics**, Kyung Hee University, 2014
 
 <br>
 
@@ -51,8 +52,13 @@ Talks
 Scholarships and Awards
 ======
 * Best Presentation Award, Korean Society for Complexity Science, 2016
+
 * Outstanding Teaching Assistant Award, Department of Physics, POSTECH, 2014
+
 * President's Award, Kyung Hee University, 2014
+
 * Secondary School Teacher Certificate (Science), 2014
+
 * Kwanjeong Educational Foundation Domestic Scholarship, 2012-2013
+
 * Academic Excellence Scholarship, Department of Physics, Kyung Hee University, 2010-2011
