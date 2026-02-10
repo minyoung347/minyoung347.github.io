@@ -28,7 +28,7 @@ Work Experience
 <ul>
 <li style="margin-bottom: 1em;">
   <h3 class="archive__item-title" style="margin-bottom: 0.25em;">[2026.02 - Present] Economic Research Institute, Bank of Korea</h3>
-  <p class="archive__item-excerpt" style="margin: 0;">Associate Research Fellow, Micro & Institutional Economic Studies Team</p>
+  <p class="archive__item-excerpt" style="margin: 0;">Economist, Micro & Institutional Economic Studies Team</p>
 </li>
 <li style="margin-bottom: 1em;">
   <h3 class="archive__item-title" style="margin-bottom: 0.25em;">[2022.10 - 2026.01] Digital Innovation Office, Bank of Korea</h3>
