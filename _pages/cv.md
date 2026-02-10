@@ -15,6 +15,8 @@ Education
   * Advisor: Prof. Woo-Sung Jung
 * **B.S. in Physics**, Kyung Hee University, Seoul, Republic of Korea, Feb. 2014
 
+<br>
+
 Work Experience
 ======
 * **2026.02 - Present: Associate Research Fellow**
@@ -28,17 +30,23 @@ Work Experience
   * Korea Exchange, Securities and Derivatives Research Center
   * Quantitative research on derivatives markets, risk management, and market surveillance
 
+<br>
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+<br>
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
+<br>
 
 Scholarships and Awards
 ======
