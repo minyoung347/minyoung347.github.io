@@ -35,8 +35,8 @@ Work Experience
   <p class="archive__item-excerpt" style="margin: 0;">Manager, Data Science Team<br>Data-driven research in economics and finance</p>
 </li>
 <li style="margin-bottom: 1em;">
-  <h3 class="archive__item-title" style="margin-bottom: 0.25em;">[2020.08 - 2022.09] Securities and Derivatives Research Center, Korea Exchange</h3>
-  <p class="archive__item-excerpt" style="margin: 0;">Associate Research Fellow<br>Quantitative research on derivatives markets, risk management, and market surveillance</p>
+  <h3 class="archive__item-title" style="margin-bottom: 0.25em;">[2020.08 - 2022.09] Korea Exchange</h3>
+  <p class="archive__item-excerpt" style="margin: 0;">Associate Research Fellow, Securities and Derivatives Research Center<br>Quantitative research on derivatives markets, risk management, and market surveillance</p>
 </li>
 </ul>
 
