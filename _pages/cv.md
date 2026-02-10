@@ -11,44 +11,34 @@ redirect_from:
 
 Education
 ======
-<div class="list__item" style="margin-bottom: 1em;">
-  <article class="archive__item">
-    <h3 class="archive__item-title">Ph.D. in Physics, 2020</h3>
-    <p class="archive__item-excerpt">Pohang University of Science and Technology (POSTECH)<br>Advisor: Prof. Woo-Sung Jung</p>
-  </article>
-</div>
-
-<div class="list__item" style="margin-bottom: 1em;">
-  <article class="archive__item">
-    <h3 class="archive__item-title">B.S. in Physics, 2014</h3>
-    <p class="archive__item-excerpt">Kyung Hee University</p>
-  </article>
-</div>
+<ul>
+<li style="margin-bottom: 1em;">
+  <h3 class="archive__item-title" style="margin-bottom: 0.25em;">Ph.D. in Physics, Pohang University of Science and Technology (POSTECH), 2020</h3>
+  <p class="archive__item-excerpt" style="margin: 0;">Advisor: Prof. Woo-Sung Jung</p>
+</li>
+<li style="margin-bottom: 1em;">
+  <h3 class="archive__item-title" style="margin-bottom: 0;">B.S. in Physics, Kyung Hee University, 2014</h3>
+</li>
+</ul>
 
 <br>
 
 Work Experience
 ======
-<div class="list__item" style="margin-bottom: 1em;">
-  <article class="archive__item">
-    <h3 class="archive__item-title">Associate Research Fellow, 2026.02 - Present</h3>
-    <p class="archive__item-excerpt">Micro & Institutional Economic Studies Team, Economic Research Institute, Bank of Korea</p>
-  </article>
-</div>
-
-<div class="list__item" style="margin-bottom: 1em;">
-  <article class="archive__item">
-    <h3 class="archive__item-title">Manager, 2022.10 - 2026.01</h3>
-    <p class="archive__item-excerpt">Digital Innovation Office, Bank of Korea</p>
-  </article>
-</div>
-
-<div class="list__item" style="margin-bottom: 1em;">
-  <article class="archive__item">
-    <h3 class="archive__item-title">Associate Research Fellow, 2020.08 - 2022.09</h3>
-    <p class="archive__item-excerpt">Securities and Derivatives Research Center, Korea Exchange<br>Quantitative research on derivatives markets, risk management, and market surveillance</p>
-  </article>
-</div>
+<ul>
+<li style="margin-bottom: 1em;">
+  <h3 class="archive__item-title" style="margin-bottom: 0.25em;">Associate Research Fellow, Bank of Korea, 2026.02 - Present</h3>
+  <p class="archive__item-excerpt" style="margin: 0;">Micro & Institutional Economic Studies Team, Economic Research Institute</p>
+</li>
+<li style="margin-bottom: 1em;">
+  <h3 class="archive__item-title" style="margin-bottom: 0.25em;">Manager, Bank of Korea, 2022.10 - 2026.01</h3>
+  <p class="archive__item-excerpt" style="margin: 0;">Digital Innovation Office</p>
+</li>
+<li style="margin-bottom: 1em;">
+  <h3 class="archive__item-title" style="margin-bottom: 0.25em;">Associate Research Fellow, Korea Exchange, 2020.08 - 2022.09</h3>
+  <p class="archive__item-excerpt" style="margin: 0;">Securities and Derivatives Research Center</p>
+</li>
+</ul>
 
 <br>
 
