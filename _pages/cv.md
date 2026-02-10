@@ -14,8 +14,6 @@ Education
 * **Ph.D. in Physics**, Pohang University of Science and Technology (POSTECH), 2020
   * Advisor: Prof. Woo-Sung Jung
 
-<br>
-
 * **B.S. in Physics**, Kyung Hee University, 2014
 
 <br>
@@ -26,12 +24,8 @@ Work Experience
   * Bank of Korea, Economic Research Institute
   * Micro & Institutional Economic Studies Team
 
-<br>
-
 * **2022.10 - 2026.01: Manager**
   * Bank of Korea, Digital Innovation Office
-
-<br>
 
 * **2020.08 - 2022.09: Associate Research Fellow**
   * Korea Exchange, Securities and Derivatives Research Center
