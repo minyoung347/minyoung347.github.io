@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Physics**, POSTECH, 2020
+* **Ph.D. in Physics**, Pohang University of Science and Technology, 2020
   * Advisor: Prof. Woo-Sung Jung
+
+<br>
 
 * **B.S. in Physics**, Kyung Hee University, 2014
 
@@ -24,8 +26,12 @@ Work Experience
   * Bank of Korea, Economic Research Institute
   * Micro & Institutional Economic Studies Team
 
+<br>
+
 * **2022.10 - 2026.01: Manager**
   * Bank of Korea, Digital Innovation Office
+
+<br>
 
 * **2020.08 - 2022.09: Associate Research Fellow**
   * Korea Exchange, Securities and Derivatives Research Center
@@ -53,7 +59,7 @@ Scholarships and Awards
 ======
 * Best Presentation Award, Korean Society for Complexity Science, 2016
 
-* Outstanding Teaching Assistant Award, Department of Physics, POSTECH, 2014
+* Outstanding Teaching Assistant Award, Department of Physics, Pohang University of Science and Technology, 2014
 
 * President's Award, Kyung Hee University, 2014
 
