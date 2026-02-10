@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Physics**, Pohang University of Science and Technology, 2020
+* **Ph.D. in Physics**, Pohang University of Science and Technology (POSTECH), 2020
   * Advisor: Prof. Woo-Sung Jung
 
 <br>
