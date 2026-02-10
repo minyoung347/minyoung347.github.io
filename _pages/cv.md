@@ -28,7 +28,7 @@ Work Experience
 <ul>
 <li style="margin-bottom: 1em;">
   <h3 class="archive__item-title" style="margin-bottom: 0.25em;">2026.02 - Present, Bank of Korea, Associate Research Fellow</h3>
-  <p class="archive__item-excerpt" style="margin: 0;">Micro & Institutional Economic Studies Team, Economic Research Institute<br>Research on financial markets and economic systems using complex systems and network approaches</p>
+  <p class="archive__item-excerpt" style="margin: 0;">Micro & Institutional Economic Studies Team, Economic Research Institute</p>
 </li>
 <li style="margin-bottom: 1em;">
   <h3 class="archive__item-title" style="margin-bottom: 0.25em;">2022.10 - 2026.01, Bank of Korea, Manager</h3>
