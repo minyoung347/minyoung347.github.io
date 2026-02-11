@@ -31,7 +31,7 @@ Work Experience
   <p class="archive__item-excerpt" style="margin: 0;">Economist, Micro & Institutional Economic Studies Team</p>
 </li>
 <li style="margin-bottom: 1em;">
-  <h3 class="archive__item-title" style="margin-bottom: 0.25em;">2022.10 - 2026.01 | Bank of Korea, Digital Innovation Office</h3>
+  <h3 class="archive__item-title" style="margin-bottom: 0.25em;">2022.10 - 2026.01 | Bank of Korea, Office of Digital Innovation</h3>
   <p class="archive__item-excerpt" style="margin: 0;">Manager, Data Science Team<br>Data-driven research in economics and finance</p>
 </li>
 <li style="margin-bottom: 1em;">
