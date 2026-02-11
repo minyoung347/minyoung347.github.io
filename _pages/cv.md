@@ -45,7 +45,9 @@ Work Experience
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% if post.category != 'media' %}
+      {% include archive-single-cv.html %}
+    {% endif %}
   {% endfor %}</ul>
 
 <br>
@@ -54,6 +56,16 @@ Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+
+<br>
+
+Media
+======
+  <ul>{% for post in site.publications reversed %}
+    {% if post.category == 'media' %}
+      {% include archive-single-cv.html %}
+    {% endif %}
   {% endfor %}</ul>
 
 <br>
